@@ -1,7 +1,6 @@
 # Manestro-BoomberSMS
 İnfinity SmS Boomber
 How To Install Termux
-
 pkg install git
 
 pkg install python
